@@ -7,7 +7,7 @@ Thành viên nhóm:
 
 Link github: https://github.com/anhdung19050302/Demo-web-adavance-.git
 
-Để chạy code trước tiên cần clone code về từ githun
+Để chạy code trước tiên cần clone code về từ github
 Sau đó chạy câu lệnh "npm i" để cài đặt các package của node 
 Sau đó tại terminal chạy câu lệnh "npm start" để chạy chương trình 
-Và cuối cung trên trình duyệt truy cập vào "http://localhost:3000" để trải nghiệm trang web
+Và cuối cùng trên trình duyệt truy cập vào "http://localhost:3000" để trải nghiệm trang web
