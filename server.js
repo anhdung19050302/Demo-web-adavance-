@@ -21,7 +21,7 @@ io.on('connection', (socket) => {
 
 
     // welcome current user
-        socket.emit('message',formatMessage(BotName,'Welcom to ChatCord'))
+        socket.emit('message',formatMessage(BotName,`Welcome to ${room}`))
 
     // broadcast when a user connects
         socket.broadcast.to(user.room).emit('message',formatMessage(BotName,`${user.username} has joined the chat`))
